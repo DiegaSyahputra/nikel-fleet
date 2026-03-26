@@ -53,7 +53,7 @@ composer require maatwebsite/excel
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/nikel-fleet.git
+git clone https://github.com/DiegaSyahputra/nikel-fleet.git
 cd nikel-fleet
 ```
 
