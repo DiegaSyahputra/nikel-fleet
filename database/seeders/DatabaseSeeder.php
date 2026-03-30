@@ -28,7 +28,7 @@ class DatabaseSeeder extends Seeder
         }
 
         // ── Users ─────────────────────────────────────────────
-        $password = Hash::make('d');
+        $password = Hash::make('password123');
 
         User::create([
             'name'      => 'Admin Pusat',
